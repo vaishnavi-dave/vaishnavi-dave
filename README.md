@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Meet+Vaishnavi+Dave,+the+tech+whiz!)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaveVaishnavi&layout=compact&theme=window-dark)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-dave&layout=compact&theme=window-dark)]()
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,atom,bootstrap,c,cpp,css,dart,django,docker,eclipse,figma,flask,flutter,git,github,html,java,js,linux,matlab,mysql,php,powershell,py,react,redux,selenium,vscode)]()
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaveVaishnavi&theme=codestackr)]()
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishnavi-dave&theme=codestackr)]()
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DaveVaishnavi&theme=windows-dark)]()
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vaishnavi-dave&theme=windows-dark)]()
 
 <!--
 **DaveVaishnavi/DaveVaishnavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
