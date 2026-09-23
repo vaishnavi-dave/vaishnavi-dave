@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Meet+Vaishnavi+Dave,+the+tech+whiz!)]()
 
-## Tech Arsenal🚀:
+### Tech Arsenal🚀:
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,atom,bootstrap,c,cpp,css,dart,django,docker,eclipse,figma,flask,flutter,git,github,html,java,js,linux,matlab,mysql,php,powershell,py,react,redux,selenium,vscode)]()
 
